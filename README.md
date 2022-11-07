@@ -1,4 +1,5 @@
-*jetbot
+jetbot
+==========
 ## 이미지 굽기
 - sd card formatter를 설치해서 sd카드 안에 있는 쓰레기 데이터를 비우고 이미지를 구울 사전준비를 한다.
 - Balena Etcher   :  Linux version Download를 다운로드해준다.
